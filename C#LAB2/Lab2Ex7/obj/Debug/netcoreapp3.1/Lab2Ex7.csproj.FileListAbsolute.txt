@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\C#LAB2\Lab2Ex7\obj\Debug\netcoreapp3.1\Lab2Ex7.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#LAB2\Lab2Ex7\obj\Debug\netcoreapp3.1\Lab2Ex7.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#LAB2\Lab2Ex7\obj\Debug\netcoreapp3.1\Lab2Ex7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#LAB2\Lab2Ex7\bin\Debug\netcoreapp3.1\Lab2Ex7.exe
+C:\Users\Admin\Desktop\C#LAB2\Lab2Ex7\bin\Debug\netcoreapp3.1\Lab2Ex7.deps.json
+C:\Users\Admin\Desktop\C#LAB2\Lab2Ex7\bin\Debug\netcoreapp3.1\Lab2Ex7.runtimeconfig.json
+C:\Users\Admin\Desktop\C#LAB2\Lab2Ex7\bin\Debug\netcoreapp3.1\Lab2Ex7.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C#LAB2\Lab2Ex7\bin\Debug\netcoreapp3.1\Lab2Ex7.dll
+C:\Users\Admin\Desktop\C#LAB2\Lab2Ex7\bin\Debug\netcoreapp3.1\Lab2Ex7.pdb
+C:\Users\Admin\Desktop\C#LAB2\Lab2Ex7\obj\Debug\netcoreapp3.1\Lab2Ex7.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#LAB2\Lab2Ex7\obj\Debug\netcoreapp3.1\Lab2Ex7.dll
+C:\Users\Admin\Desktop\C#LAB2\Lab2Ex7\obj\Debug\netcoreapp3.1\Lab2Ex7.pdb
+C:\Users\Admin\Desktop\C#LAB2\Lab2Ex7\obj\Debug\netcoreapp3.1\Lab2Ex7.genruntimeconfig.cache
